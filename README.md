@@ -59,7 +59,7 @@ Calculator.java
 ---
 
 ## 📸 Screenshots
-![Calculator Screenshot](Screenshots/screenshot1.png)
+![Calculator Screenshot](Screenshots/Screenshot1.png)
 
 
 ---
